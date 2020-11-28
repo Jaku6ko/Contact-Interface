@@ -1,0 +1,27 @@
+.base-container{
+    margin-top:3rem;
+}
+.table table-dark {
+    border-radius: 5px;
+    width: 50%;
+    margin: 10px auto;
+    float: none;
+}
+input[type="text"]{
+    background-color: palegoldenrod;
+
+}
+body{
+    background-color: rgba(253, 197, 75, 0.733);
+}
+.margin-bottom{
+    margin-bottom: 3em;
+}
+.main-table{
+    border: 2px solid black;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
