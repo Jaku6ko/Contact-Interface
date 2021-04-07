@@ -202,7 +202,7 @@ function CreateContact(){
             response = data;
         },
         error: function(er) {
-            alert("error lol u dumb")
+            alert("An error has occcured")
             console.log(er)
 
         }
